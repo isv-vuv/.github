@@ -1,5 +1,5 @@
 Weitere Tools:
-* s. Homepage
+* s. https://www.isv.uni-stuttgart.de/vuv/tools
 * s. https://github.com/FOR2083
   * Demonstratoren für die Optimierung in der ÖV-Angebotsplanung
   * Interface für den Datentransfer zwischen den Softwares PTV Visum und LinTim
